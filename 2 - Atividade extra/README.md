@@ -19,8 +19,9 @@ um atributo de uma pessoa pode ser importante ou não dependendo do contexto
 do sistema? Enumere na tabela abaixo contextos/sistemas distintos em que os
 atributos abaixo seriam relevantes:
 
-## resposta 
+## Imagem da Questão
 
+![Imagem da Questão](2%20-%20Atividade%20extra/3questao.png)
 
 Etinia
 
