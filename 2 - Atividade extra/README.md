@@ -21,7 +21,9 @@ atributos abaixo seriam relevantes:
 
 ## Imagem da Questão
 
-![Imagem da Questão](2 - Atividade extra/3questao.png)  
+
+![Imagem da Questão](2%20-%20Atividade%20extra/3questao.png)
+
 Etinia
 
 **4. Considerando os objetos Pessoa e Conta:
