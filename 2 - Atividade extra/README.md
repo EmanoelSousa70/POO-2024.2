@@ -19,26 +19,8 @@ um atributo de uma pessoa pode ser importante ou não dependendo do contexto
 do sistema? Enumere na tabela abaixo contextos/sistemas distintos em que os
 atributos abaixo seriam relevantes:
 
-Atributo Sistema em que
-não é
-importante
+## resposta 
 
-Sistema em que é
-moderadamente
-importante
-
-Sistema em que é
-essencial
-
-CPF
-Histórico de
-saúde
-Quantidade de
-seguidores
-Habilidade
-destra
-Endereço
-Saldo em conta
 
 Etinia
 
