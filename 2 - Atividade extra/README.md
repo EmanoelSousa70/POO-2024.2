@@ -1,13 +1,12 @@
 # POO 2024.2
-<h1 style="color:blue;">Título em Azul</h1>
+
 
 **1. Explique com suas palavras a diferença entre uma classe e um objeto e como
 esses dois conceitos se relacionam. Além disso, apresente um exemplo do mundo
 real para cada um (por exemplo, usando a classe Carro e instâncias como Fusca e
 Civic).
 
-<span style="color:red">Este texto está em vermelho!</span>
-<span style="color:red">
+<font color=\"red\">Texto com cor vermelha</font>
 
   Classe é como um molde ou uma receita. Ela define como algo deve ser, quais características (atributos) e comportamentos (métodos) esse algo terá. Por exemplo, a classe Carro define que um carro tem cor, marca e ano, além de poder acelerar e frear.
 
