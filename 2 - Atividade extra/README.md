@@ -4,7 +4,7 @@
 esses dois conceitos se relacionam. Além disso, apresente um exemplo do mundo
 real para cada um (por exemplo, usando a classe Carro e instâncias como Fusca e
 Civic).
-<p style="color:red;">
+<span style="color:red">
   Classe é como um molde ou uma receita. Ela define como algo deve ser, quais características (atributos) e comportamentos (métodos) esse algo terá. Por exemplo, a classe Carro define que um carro tem cor, marca e ano, além de poder acelerar e frear.
 
 Objeto é um exemplo real daquela classe. É o que você cria a partir do molde. Por exemplo, se a classe é Carro, um objeto pode ser um Fusca de cor azul ou um Civic de cor vermelha.
@@ -14,7 +14,7 @@ Exemplo do Mundo Real:
 Classe: Carro
 Objetos: Fusca, Civic
 
-</p>
+</span>
 
 **2. De forma breve, conceitue atributos e métodos. Pesquise e exemplifique um
 objetos ou classes que possuam atributos e métodos. Por exemplo um Carro:
