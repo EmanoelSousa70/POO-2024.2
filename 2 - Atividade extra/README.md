@@ -4,7 +4,8 @@
 esses dois conceitos se relacionam. Além disso, apresente um exemplo do mundo
 real para cada um (por exemplo, usando a classe Carro e instâncias como Fusca e
 Civic).
-<p style="color:red;">Passo 1: Clone o repositório.</p>
+<p style="color:red;">Passo 1: Clone o repositório.
+</p>
 
 **2. De forma breve, conceitue atributos e métodos. Pesquise e exemplifique um
 objetos ou classes que possuam atributos e métodos. Por exemplo um Carro:
