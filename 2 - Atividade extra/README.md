@@ -6,10 +6,8 @@ esses dois conceitos se relacionam. Além disso, apresente um exemplo do mundo
 real para cada um (por exemplo, usando a classe Carro e instâncias como Fusca e
 Civic).
 
-  <font color=\"red\">Texto com cor vermelha
-  </font>
 
-  Classe é como um molde ou uma receita. Ela define como algo deve ser, quais características (atributos) e comportamentos (métodos) esse algo terá. Por exemplo, a classe Carro define que um carro tem cor, marca e ano, além de poder acelerar e frear.
+  🔴Classe é como um molde ou uma receita. Ela define como algo deve ser, quais características (atributos) e comportamentos (métodos) esse algo terá. Por exemplo, a classe Carro define que um carro tem cor, marca e ano, além de poder acelerar e frear.
 
 Objeto é um exemplo real daquela classe. É o que você cria a partir do molde. Por exemplo, se a classe é Carro, um objeto pode ser um Fusca de cor azul ou um Civic de cor vermelha.
 
