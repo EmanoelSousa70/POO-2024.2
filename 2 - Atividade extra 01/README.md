@@ -134,3 +134,6 @@ Métodos:
 atualizar_placar()
 exibir_placar()
 
+
+**10
+🔴![Imagem da Questão](q10.drawio.png)
