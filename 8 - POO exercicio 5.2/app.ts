@@ -1,5 +1,5 @@
 import prompt from "prompt-sync";
-import { Conta, Banco } from "./banco.ts";
+import { Conta, Banco } from "./banco";
 
 const input = prompt();
 const banco = new Banco();
