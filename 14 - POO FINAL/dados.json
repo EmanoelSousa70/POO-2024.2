@@ -1,0 +1,49 @@
+{
+  "perfis": [
+    {
+      "id": "1",
+      "apelido": "emanoel",
+      "foto": "oo",
+      "email": "emanoel@email.com",
+      "status": true,
+      "amigos": [
+        "3"
+      ],
+      "postagens": []
+    },
+    {
+      "id": "2",
+      "apelido": "marcio",
+      "foto": "ooo",
+      "email": "marcio@email.com",
+      "status": true,
+      "amigos": [],
+      "postagens": []
+    },
+    {
+      "id": "3",
+      "apelido": "pedro",
+      "foto": "oooo",
+      "email": "pedro@email.com",
+      "status": true,
+      "amigos": [
+        "1"
+      ],
+      "postagens": []
+    }
+  ],
+  "publicacoes": [
+    {
+      "id": "2",
+      "conteudo": "teste marcio 2",
+      "dataHora": "2025-02-05T21:07:41.370Z",
+      "perfilId": "2"
+    },
+    {
+      "id": "1",
+      "conteudo": "emanoel teste 1",
+      "dataHora": "2025-02-05T21:07:26.055Z",
+      "perfilId": "1"
+    }
+  ]
+}
